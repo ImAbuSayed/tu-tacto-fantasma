@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-fantasma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu tacto fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-fantasma/) |
+| **Get License** | [Get a Licensing Quote for Tu tacto fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-fantasma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu tacto fantasma rozando mi piel
+> Buscando la magia que sabe a la miel
+> Dejaste la huella de tu seducción
+> Bailando en la sombra perdiendo el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
