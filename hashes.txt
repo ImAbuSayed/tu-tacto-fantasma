@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu tacto fantasma
+
+This log tracks the cryptographic history and versioning for the song **Tu tacto fantasma** (tu-tacto-fantasma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:24:18.535143 | `v1` | `b775d58dc9ef80fbcd548c5533a8df88d64fdeb82f4a058bc1f5e8a229b6a346` | `2c1062231ec37b358bb6d5d727c6ed2e88d85e6b053d7965a543e29a896c9330` | `2026-06-19_tu-tacto-fantasma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
